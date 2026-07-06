@@ -3,7 +3,7 @@
   <channel>
     <title>Ecclesiology Podcast</title>
     <description>Reformed ecclesiology from à Brakel. Theological reflections on the church, Christ, and Christian witness.</description>
-    <link>https://jr-ecclesiology-7f3a9b2c.github.io/</link>
+    <link>https://jason-ruis.github.io/jr-ecclesiology-7f3a9b2c/</link>
     <language>en-us</language>
     <copyright>2026 Jason Ruis</copyright>
     <lastBuildDate>Sat, 05 Jul 2026 00:00:00 +0000</lastBuildDate>
@@ -14,7 +14,7 @@
     </itunes:owner>
     <itunes:author>Jason Ruis</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://jr-ecclesiology-7f3a9b2c.github.io/artwork.jpg"/>
+    <itunes:image href="https://jason-ruis.github.io/jr-ecclesiology-7f3a9b2c/artwork.jpg"/>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
@@ -22,10 +22,10 @@
     <item>
       <title>01 — There Is No Christ Without His Church</title>
       <description>Chapter 25 of Wilhelmus à Brakel's Reasonable Service. The necessity of the church for salvation: Christ has no members outside His body, no children apart from His mother the church. Exploring the two kingdoms, the church's role in the world, and true Christian witness.</description>
-      <link>https://jr-ecclesiology-7f3a9b2c.github.io/</link>
+      <link>https://jason-ruis.github.io/jr-ecclesiology-7f3a9b2c/</link>
       <guid>jr-ecclesiology-7f3a9b2c-001</guid>
       <pubDate>Fri, 04 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://jr-ecclesiology-7f3a9b2c.github.io/episodes/01-there-is-no-christ-without-his-church.mp3" length="9781149" type="audio/mpeg"/>
+      <enclosure url="https://jason-ruis.github.io/jr-ecclesiology-7f3a9b2c/episodes/01-there-is-no-christ-without-his-church.mp3" length="9781149" type="audio/mpeg"/>
       <itunes:duration>1629</itunes:duration>
       <itunes:author>Jason Ruis</itunes:author>
       <itunes:explicit>false</itunes:explicit>
